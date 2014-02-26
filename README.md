@@ -1,4 +1,4 @@
-image-manipulations
-===================
+imagemonipulations
+==================
 
-image-manipulations
+playing around automate image manipulations 
